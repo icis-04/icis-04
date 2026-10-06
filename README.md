@@ -7,7 +7,7 @@
 - Core stack: n8n, Zapier, Inngest, Python, FastAPI, Streamlit, Claude API, REST APIs.
 - Background in blockchain and backend engineering: Move, Solidity, Rust, JavaScript, React.js.
 - Interested in AI automation, AI agents, backend engineering, and sharing and explaining tech concepts.
-- General mails at biningandfinance@gmail.com
+- General mails at chidexiwuaku@gmail.com
 
 # What I Do
 
